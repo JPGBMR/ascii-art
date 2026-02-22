@@ -1,5 +1,6 @@
 # ASCII Art Generator
 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/JPGBMR/ascii-art)
 This Python application converts images into artistic ASCII text. Users can customize resolution, brightness mapping, and save the generated ASCII art as a `.txt` file. Built with an intuitive Tkinter-based GUI, the application is simple and fun to use.
 
 ## Features
@@ -17,3 +18,13 @@ This Python application converts images into artistic ASCII text. Users can cust
 2. Install the required dependencies:
    ```bash
    pip install Pillow
+
+## Getting Started
+
+```bash
+pip install -r requirements.txt
+python main.py
+```
+
+---
+*Part of the [JPGBMR](https://github.com/JPGBMR) open-source portfolio.*
